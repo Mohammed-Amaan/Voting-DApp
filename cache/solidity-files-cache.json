@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\amaan\\OneDrive\\Desktop\\voting-dapp\\contracts\\votings.sol": {
+      "lastModificationDate": 1712141587816,
+      "contentHash": "7fec06cb8eb2b74194ded722cf0ffd63",
+      "sourceName": "contracts/votings.sol",
+      "solcConfig": {
+        "version": "0.8.1",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.1"
+      ],
+      "artifacts": [
+        "votings"
+      ]
+    },
+    "C:\\Users\\amaan\\OneDrive\\Desktop\\voting-dapp\\contracts\\newVoting.sol": {
+      "lastModificationDate": 1712141639856,
+      "contentHash": "2200fe0946b4771de707fab9da142c26",
+      "sourceName": "contracts/newVoting.sol",
+      "solcConfig": {
+        "version": "0.8.1",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.1"
+      ],
+      "artifacts": [
+        "newVoting"
+      ]
+    }
+  }
+}

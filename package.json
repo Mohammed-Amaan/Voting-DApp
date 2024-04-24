@@ -1,0 +1,32 @@
+{
+  "name": "voting-dapp",
+  "version": "1.0.0",
+  "description": "voting dapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "hardhat": "^2.22.2"
+  },
+  "dependencies": {
+    "@pinata/sdk": "^2.1.0",
+    "axios": "^1.6.8",
+    "bcrypt": "^5.1.1",
+    "bignumber.js": "^9.1.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.2.3",
+    "nodemon": "^3.1.0",
+    "validator": "^13.11.0"
+  }
+}
