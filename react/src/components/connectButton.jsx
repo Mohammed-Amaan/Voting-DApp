@@ -8,7 +8,7 @@ const ConnectButton = () => {
         await window.ethereum.request({ method: "eth_requestAccounts" });
         setText("Connected!");
       } else {
-        setText("Please install metamask");
+        setText("Please install metamask!");
       }
     };
     connect();

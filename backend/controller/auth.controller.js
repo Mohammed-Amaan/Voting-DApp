@@ -12,7 +12,7 @@ const handleErrors = (err) => {
   }
   //incorrect email -login
   if (err.message === "Incorrect email") {
-    errors.email = "email is not registered";
+    errors.email = "email is not registered!";
   }
   //incorrect password -login
   if (err.message === "Incorrect password") {

@@ -7,7 +7,7 @@ const Home = () => {
     <>
       <div className="bg-blue-100 flex flex-col items-center justify-center h-screen">
         <div className="text-center mb-4 text-3xl">
-          <h1>Welcome to Voting Application</h1>
+          <h1>Welcome to Decentralised Voting Application</h1>
         </div>
         <div className="flex flex-col items-center">
           <h2 className="text-2xl mb-4">Signup as </h2>
